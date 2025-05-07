@@ -1,7 +1,7 @@
 # RESTAPI-PusdatinATRBPN
 
 
-# 🌍 Places API - .NET 8 Rest API
+# 🌍 Places API - .NET CORE 8 Rest API
 
 API ini dibangun menggunakan **ASP.NET Core 8** dengan arsitektur clean dan lightweight, menyediakan endpoint untuk manajemen data lokasi/tempat (Places). Cocok digunakan untuk backend aplikasi pemetaan atau manajemen lokasi pengguna.
 
