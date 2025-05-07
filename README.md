@@ -48,11 +48,11 @@ API ini dibangun menggunakan **ASP.NET Core 8** dengan arsitektur clean dan ligh
 
 | Method | Endpoint                | Deskripsi                     |
 |--------|-------------------------|-------------------------------|
-| GET    | `/api/places`           | Ambil semua tempat            |
-| GET    | `/api/places/show/{id}` | Detail tempat berdasarkan ID  |
-| POST   | `/api/places/store`     | Tambah tempat baru            |
-| PUT    | `/api/places/update/{id}` | Update tempat              |
-| DELETE | `/api/places/delete/{id}` | Soft delete tempat         |
+| GET    | `/api/Places`           | Ambil semua tempat            |
+| GET    | `/api/Places/Show` | Detail tempat berdasarkan ID  |
+| POST   | `/api/Places/Store`     | Tambah tempat baru            |
+| PUT    | `/api/Places/Update` | Update tempat              |
+| DELETE | `/api/Places/Delete` | Soft delete tempat         |
 
 ## 🧪 Validasi
 
